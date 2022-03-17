@@ -1,0 +1,46 @@
+
+@media only screen and (max-width:1200px){
+
+    .hero-text-Box{
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row{
+        padding: 0 2%;
+    }
+}
+
+
+@media only screen and (max-width:1023px){
+
+    body{font-size: 18px;}
+
+    section{padding: 60px 0;}
+    .long-copy{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .steps-box{margin-top: 10px; }
+
+    .works-step{margin-bottom: 40px;}
+    .works-step:last-of-type{
+        margin-bottom: 60px;
+    }
+    .App-screen{width: 50%;}
+    .icon-small{
+        width: 17px;
+        margin-right: 5px;
+    }
+    .city-features{font-size: 90%;}
+}
+
+
+@media only screen and (max-width:767px){
+
+}
+
+
+
+@media only screen and (max-width:480px)  {
+    
+}
